@@ -3,7 +3,7 @@
 
 # WEB MOVIE TICKETING & WEB SHOPPING MALL
 
-## 메가박스 클론, +  온라인 쇼핑몰
+## 메가박스 클론 + 온라인 쇼핑몰
 <br>
 <br>
 <br>
