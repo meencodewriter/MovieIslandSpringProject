@@ -3,7 +3,7 @@
 
 # WEB MOVIE TICKETING & WEB SHOPPING MALL
 
-## 영화예매 및 상품 온라인 판매 서비스의 제공 및 관리 웹 서버 프로젝트입니다.
+## 메가박스 클론, +  온라인 쇼핑몰
 <br>
 <br>
 <br>
